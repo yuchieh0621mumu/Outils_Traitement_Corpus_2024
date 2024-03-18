@@ -1,12 +1,18 @@
 # Outils Traitement Corpus 2024
 
 ## La tâche que je veux réaliser:
-De chercher les prompts de ChatGPT les plus précis pour apprendre l'anglais et les commandes Linux par moi-même.
+Chercher des ressources pour apprendre l'anglais et les commandes Linux.
+
 - Un corpus qui répond à cette tâche
-[Awesome-chatgpt-prompts](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts)
+[CoQA: Conversational Question Answering](https://huggingface.co/datasets/stanfordnlp/coqa)
+
 - À quel type de prédiction peut servir ce corpus
-Ce corpus pourrait être utilisé pour prédire l'efficacité et le type de réponse suscitée par des invites spécifiques dans l'IA conversationnelle.
+Ce corpus peut servir à entraîner des modèles à comprendre et à répondre à des questions dans un contexte conversationnel.
+
 - À quel modèle il a servi
-Il fournit une collection d'invites qui peuvent être utilisées pour interagir avec des modèles conversationnels tels que ChatGPT.
-- Apprenez-moi des choses sur ce corpus
-Ce corpus couvre un large éventail de fonctionnalités: terminal Linux, traducteur anglais, enquêteur, console JavaScript, feuille Excel, etc., c'est tellement pratique.
+Il est utilisé pour améliorer la compréhension de la machine dans les dialogues et peut aider à développer des compétences en IA conversationnelle.
+
+- Sur ce corpus
+CoQA est destiné à l'entrainement de modèles pour la compréhension conversationnelle, incluant une diversité de styles de dialogues et de sujets, ce qui le rend utile pour apprendre par interaction.
+
+This modification focuses on the CoQA dataset's use for conversational understanding, which differs from the previous dataset's broader scope of applications.
