@@ -28,12 +28,4 @@ This dataset can be particularly useful for training and evaluating models for:
 - Natural Language Processing (NLP) tasks requiring contextual analysis.
 - Educational purposes to understand how questions relate to specific contexts.
 
-### Licensing
-Please refer to the accompanying license file for information on usage rights and restrictions.
-
-### Acknowledgements
-If you use this dataset, please cite the source and contributors appropriately.
-
-## Repository Structure
-Here's an overview of the repository structure:
 
