@@ -1,5 +1,3 @@
-
-
 ## Dataset Card for `new_corpus.csv`
 
 ### Dataset Description
